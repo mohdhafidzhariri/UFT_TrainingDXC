@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'C:\\Users\\demo\\Documents\\Unified Functional Testing\\hafidz_dxc_uft_training\\UFT_TrainingDXC\\UFT_DXC_TRAINING\\Res1',namePairs:[]}]};
